@@ -1,10 +1,5 @@
 {
-  "nomes": [
-    "Amor",
-    "Gato",
-    "Vida",
-    "Seu bem"
-  ],
+  "nomes": ["Amor", "Gato", "Vida", "Seu bem", "Gabriel"],
   "declaracoes": [
     "Você é o tipo de mulher que se faz um livro e uma música sobre.",
     "Você me inspira cada vez mais a ser melhor do que eu era antes.",
@@ -17,7 +12,7 @@
   "momentos": [
     {
       "src": "/para_carol/pics/1.jpg",
-      "texto": "O nosso primeiro piquenique e a primeira vez que você conseguiu me fazer vestir branco."
+      "texto": "O nosso primeiro piquenique e a primeira vez que você conseguiu me fazer vestir branco. Lembra que foi nosso primeiro story junto?"
     },
     {
       "src": "/para_carol/pics/2.jpg",
@@ -25,7 +20,7 @@
     },
     {
       "src": "/para_carol/pics/3.jpg",
-      "texto": "Eu apreciando o sorrisinho mais belo, no melhor dia da minha vida."
+      "texto": "Eu apreciando o sorrisinho mais belo, no melhor dia da minha vida. Não consigo descrever o que senti quando recebi aquele 'Nós estamos namorando, tá?'."
     },
     {
       "src": "/para_carol/pics/4.jpg",
@@ -33,7 +28,7 @@
     },
     {
       "src": "/para_carol/pics/5.jpg",
-      "texto": "Primeira vez que conversou com minha vó. Sério, você fica linda de bantu."
+      "texto": "Primeira vez que conversou com minha avó. Sério, você fica linda de bantu."
     },
     {
       "src": "/para_carol/pics/6.jpg",
@@ -57,3 +52,4 @@
     }
   ]
 }
+

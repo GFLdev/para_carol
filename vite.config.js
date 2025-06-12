@@ -18,4 +18,9 @@ export default defineConfig({
         },
     },
     base: "/para_carol",
+    server: {
+        watch: {
+            usePolling: true,
+        }
+    },
 })

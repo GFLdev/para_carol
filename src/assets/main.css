@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Tangerine:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+    --font-roboto: "Roboto", sans-serif;
+    --font-tangerine: "Tangerine", cursive;
+}
+
+:root {
+    user-select: none;
+}
+
+html, body {
+    /*min-height: 100vh;*/
+    height: 100%;
+}

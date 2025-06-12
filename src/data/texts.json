@@ -1,0 +1,59 @@
+{
+  "nomes": [
+    "Amor",
+    "Gato",
+    "Vida",
+    "Seu bem"
+  ],
+  "declaracoes": [
+    "Você é o tipo de mulher que se faz um livro e uma música sobre.",
+    "Você me inspira cada vez mais a ser melhor do que eu era antes.",
+    "Você é a melhor professora que existe, conseguiu me ensinar o que de fato é amor.",
+    "Você é a primeira pessoa que passa pela minha cabeça ao amanhecer, e a última ao anoitecer.",
+    "Como eu poderia chamar algo que está além da paixão, mas não é apenas carinho?",
+    "Meu dia finaliza agridoce, sempre me despeço de você, mas tendo em mente que, no amanhã, isso não irá mais ser necessário.",
+    "Seu cheiro é reconfortante, seu toque é acalentador, seu beijo é doce e seu sorriso é o meu maior objetivo."
+  ],
+  "momentos": [
+    {
+      "src": "/src/data/pics/1.jpg",
+      "texto": "O nosso primeiro piquenique e a primeira vez que você conseguiu me fazer vestir branco."
+    },
+    {
+      "src": "/src/data/pics/2.jpg",
+      "texto": "Nosso cantinho da BBT, enquanto eu sinto o melhor cheiro que já senti na minha vida. Olha minha inicial no dedo onde está sua aliança hoje."
+    },
+    {
+      "src": "/src/data/pics/3.jpg",
+      "texto": "Eu apreciando o sorrisinho mais belo, no melhor dia da minha vida."
+    },
+    {
+      "src": "/src/data/pics/4.jpg",
+      "texto": "Nossa primeira vez no Caverna, sendo mal atendidos desde esse dia, mas esse sorriso sempre me faz esquecer disso."
+    },
+    {
+      "src": "/src/data/pics/5.jpg",
+      "texto": "Primeira vez que conversou com minha vó. Sério, você fica linda de bantu."
+    },
+    {
+      "src": "/src/data/pics/6.jpg",
+      "texto": "Nosso piquenique no Dia da Consciência Negra, e a foto mais linda que eu tenho sua. Eu nunca disse da boca para fora, você é a mulher mais bela que eu já vi na minha vida."
+    },
+    {
+      "src": "/src/data/pics/7.jpg",
+      "texto": "Quando finalmente fomos no Beirute. Cara... tem um motivo para ser o plano de fundo do meu celular, eu sou viciado no seu sorriso."
+    },
+    {
+      "src": "/src/data/pics/8.jpg",
+      "texto": "No falecido Fuego, enquanto você me impedia de cantar o Facção Central que estava tocando na cozinha."
+    },
+    {
+      "src": "/src/data/pics/9.jpg",
+      "texto": "Quando eu simplesmente só entreguei um rosa para minha flor e a chamei para ir no Studebaker, porque eu estava com saudades."
+    },
+    {
+      "src": "/src/data/pics/10.jpg",
+      "texto": "Era para a gente ter caminhado, né? Não tenho coragem de colocar uma foto linda dessa no Instagram, esse sorriso chama muita atenção."
+    }
+  ]
+}
